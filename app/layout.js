@@ -1,9 +1,9 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Ronit Patro | Finance & Accounting Analyst',
+  title: 'Ronit Patro | Finance, Accounting & Automation',
   description:
-    'Finance, accounting, reconciliation, GST & TDS compliance, and AI-driven finance automation portfolio.',
+    'Portfolio of Ronit Patro — finance, accounting, reconciliation, GST & TDS compliance, audit support and AI-driven finance automation.',
 };
 
 export default function RootLayout({ children }) {
