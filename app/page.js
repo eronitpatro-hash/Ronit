@@ -139,7 +139,7 @@ export default function Home() {
         <div className="heroCopy">
           <div className="eyebrow"><span className="pulse" /> FINANCE · ACCOUNTING · AUTOMATION</div>
           <div className="heroIndex">01 / 06</div>
-          <h1>Finance &amp; Accounting<br /><span>Professional.</span><br /><em>Reconciliation · Compliance · Automation.</em></h1>
+          <h1>Finance &amp; Accounting<br /><span>Professional.</span><br /><em>Financial Operations · Compliance · Reporting.</em></h1>
           <p className="lead">
             I&apos;m <strong>Ronit Patro</strong>, a Finance &amp; Accounting professional working across
             bookkeeping, high-value reconciliation, GST &amp; TDS compliance, audit support and AI-driven finance automation.
