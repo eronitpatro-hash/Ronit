@@ -116,7 +116,7 @@ export default function Home() {
   return (
     <main>
       <nav className="nav">
-        <a className="brand" href="#top" aria-label="Ronit Patro home">RP<span>.</span></a>
+        <a className="brand fullName" href="#top" aria-label="E Ronit Patro home">E RONIT PATRO</a>
         <div className="desktopNav">
           {nav.map((item) => <a key={item} href={'#' + item.toLowerCase()}>{item}</a>)}
         </div>
@@ -139,7 +139,7 @@ export default function Home() {
         <div className="heroCopy">
           <div className="eyebrow"><span className="pulse" /> FINANCE · ACCOUNTING · AUTOMATION</div>
           <div className="heroIndex">01 / 06</div>
-          <h1>Finance, <span>reconciled.</span><br /><em>Processes, automated.</em></h1>
+          <h1>Finance &amp; Accounting<br /><span>Professional.</span><br /><em>Reconciliation · Compliance · Automation.</em></h1>
           <p className="lead">
             I&apos;m <strong>Ronit Patro</strong>, a Finance &amp; Accounting professional working across
             bookkeeping, high-value reconciliation, GST &amp; TDS compliance, audit support and AI-driven finance automation.
