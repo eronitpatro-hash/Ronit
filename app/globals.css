@@ -10,7 +10,7 @@ body{margin:0;background:var(--bg);color:var(--ink);font-family:'DM Sans',sans-s
 a{text-decoration:none;color:inherit}
 button{font:inherit}
 .nav{height:76px;display:flex;align-items:center;justify-content:space-between;padding:0 5vw;border-bottom:1px solid var(--line);position:sticky;top:0;background:rgba(244,243,239,.88);backdrop-filter:blur(18px);z-index:20}
-.brand{font:800 25px Manrope;letter-spacing:-.07em}
+.brand{font:800 25px Manrope;letter-spacing:-.07em}.fullName{font-size:18px;letter-spacing:-.035em;white-space:nowrap}
 .brand span{color:#888}
 .desktopNav{display:flex;gap:31px;font:500 11px 'DM Mono';text-transform:uppercase;letter-spacing:.04em}
 .desktopNav a{transition:opacity .2s}
